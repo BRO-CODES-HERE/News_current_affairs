@@ -193,7 +193,7 @@ NewsSense/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/NewsSense.git
+git clone https://github.com/BRO-CODES-HERE/News_current_affairs.git
 cd NewsSense
 ```
 

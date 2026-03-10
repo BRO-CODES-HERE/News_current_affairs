@@ -1,0 +1,12 @@
+fastapi>=0.103.0
+uvicorn>=0.23.2
+pydantic>=2.3.0
+SQLAlchemy>=2.0.20
+psycopg2-binary>=2.9.7
+newspaper3k>=0.2.8
+beautifulsoup4>=4.12.2
+feedparser>=6.0.10
+transformers>=4.33.1
+torch>=2.0.1
+spacy>=3.6.1
+python-dotenv>=1.0.0
